@@ -1,6 +1,8 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
     margin: 20px;
+    background: black;
+    color: white;
   }
   
   ol, ul {
@@ -18,8 +20,8 @@ body {
   }
   
   .square {
-    background: #fff;
-    border: 1px solid #999;
+    background: black;
+    border: 1px solid white;
     float: left;
     font-size: 24px;
     font-weight: bold;
@@ -30,6 +32,7 @@ body {
     padding: 0;
     text-align: center;
     width: 34px;
+    color: white;
   }
   
   .square:focus {
