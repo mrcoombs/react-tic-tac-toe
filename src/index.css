@@ -1,8 +1,12 @@
 body {
-    font: 14px "Century Gothic", Futura, sans-serif;
+    font: 50px "Century Gothic", Futura, sans-serif;
     margin: 20px;
     background: black;
     color: white;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
   }
   
   ol, ul {
@@ -23,15 +27,15 @@ body {
     background: black;
     border: 1px solid white;
     float: left;
-    font-size: 24px;
+    font-size: 50px;
     font-weight: bold;
-    line-height: 34px;
-    height: 34px;
+    line-height: 60px;
+    height: 60px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 34px;
+    width: 60px;
     color: white;
   }
   
